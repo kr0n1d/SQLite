@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="FIOf" xml:space="preserve">
+    <value>,Соколова Ульяна Леонидовна,Толочко Юнона Артёмовна,Шевченко Прасковья Максимовна,Легойда Федосья Романовна,Савина Йосифа Даниловна,Семёнова Шанетта Станиславовна,Карпова Эсмеральда Леонидовна,Панова Инесса Ярославовна,Аксёнова Цара Вадимовна,Трублаевска Федосья Даниловна,Федункив Харита Вадимовна,Ефремова Йосифа Григорьевна,Ефимова Жозефина Фёдоровна,Быкова Ядвига Артёмовна,Хохлова Георгина Фёдоровна,Авдеева Зинаида Сергеевна,Повалий Юнона Платоновна,Кудряшова Елизавета Григорьевна,Гусева Йоханна Станиславовна,Лазарева Инесса Максимовна,Герасимова Зинаида Дмитриевна,Миронова Прасковья Эдуардовна,Блинова Клавдия Анатолиевна,Никитина Цара Даниловна,Фёдорова Глафира Вадимовна,Бобылёва Марина Викторовна,Федункив Устинья Григорьевна,Сирко Фаина Леонидовна,Орлова Йосифа Платоновна,Кудрявцева Лилия Петровна,Аксёнова Юнона Александровна,Третьякова Мария Андреевна,Федоренко Ника Богдановна,Щукина Таисия Борисовна,Стрелкова Эдда Андреевна,Пономаренко Анна Евгеньевна,Фадеева Рада Викторовна,Кудряшова Гелла Михайловна,Коровяк Цилла Евгеньевна,Темченко Хильда Ярославовна,Тимофеева Йоланта Ярославовна,Соколова Христина Богдановна,Мирна Цветелина Эдуардовна,Марочко Зинаида Анатолиевна,Морозова Юна Петровна,Петренко Ульяна Владимировна,Доронина Марта Брониславовна,Захарченко Доминика Виталиевна,Савенко Янита Борисовна,Ялова Полина Платоновна,Горшкова Алиса Владимировна,Шкраба Рената Юхимовна,Дмитриева Людмила Владимировна,Бурова Кристина Платоновна,Алексеева Федосья Эдуардовна,Спивак Прасковья Артёмовна,Петровска Фаина Богдановна,Селиверстова Майя Романовна,Гаврилова Беатриса Романовна,Сафонова Татьяна Леонидовна,Гришина Шанетта Викторовна,Кулибаба Тамара Андреевна,Зайцева Чара Ярославовна,Гришина Майя Даниловна,Коновалова Галина Анатолиевна,Цветкова Ксения Владимировна,Масловска Пелагея Платоновна,Тимошенко Анжелика Романовна,Александрова София Борисовна,Белякова Цара Эдуардовна,Капустина Юна Александровна,Червона Мария Леонидовна,Кравченко Фаина Петровна,Субботина Эльга Ярославовна,Терещенко Харитина Андреевна,Рыбакова Йосифа Станиславовна,Ефремова Клавдия Платоновна,Саксаганска Йана Леонидовна,Легойда Марина Даниловна,Назарова Ирина Львовна,Котова Рената Максимовна,Погомий Полина Брониславовна,Андрейко Нина Васильевна,Шуфрич Александра Петровна,Алчевска Розалина Богдановна,Герасимова Элеонора Александровна,Бондаренко Марина Платоновна,Ткаченко Маргарита Алексеевна,Кулакова Клавдия Андреевна,Александрова Алина Анатолиевна,Гайчук Татьяна Максимовна,Овчинникова Дарья Петровна,Романенко Клара Викторовна,Борисова Жанна Петровна,Гордеева Софья Васильевна,Дмитриева Устинья Леонидовна,Несвитайло Береслава Виталиевна,Толочко Гера Алексеевна,Сорокина Ирина Даниловна,</value>
+  </data>
+  <data name="FIOm" xml:space="preserve">
+    <value>,Ершов Эдуард Брониславович,Давыдов Харитон Брониславович,Петровский Лаврентий Эдуардович,Федосеев Дмитрий Виталиевич,Юдин Никита Викторович,Житар Виктор Юхимович,Горшков Огюст Александрович,Фёдоров Осип Станиславович,Галкин Жерар Романович,Осипов Нестор Сергеевич,Морозов Трофим Андреевич,Логинов Руслан Леонидович,Иващенко Филипп Львович,Капустин Эдуард Станиславович,Сысоев Тимур Брониславович,Емельянов Эрик Юхимович,Полищук Захар Юхимович,Фомин Еремей Михайлович,Петров Чарльз Эдуардович,Павлив Устин Михайлович,Комаров Иосиф Валерьевич,Белозёров Филипп Михайлович,Силин Устин Иванович,Трублаевский Захар Владимирович,Погомий Макар Евгеньевич,Буров Цефас Сергеевич,Рымар Сава Иванович,Кузнецов Олег Виталиевич,Горбунов Йонас Львович,Щербаков Спартак Дмитриевич,Анисимов Лука Виталиевич,Михайлов Устин Станиславович,Мясников Яромир Андреевич,Кудрявцев Яромир Евгеньевич,Шарапов Юрий Фёдорович,Смирнов Чеслав Фёдорович,Бобылёв Харитон Артёмович,Шамрыло Игнатий Романович,Ковальчук Йосеф Валерьевич,Лобанов Йошка Фёдорович,Лукин Жерар Брониславович,Масловский Богдан Григорьевич,Фомин Осип Львович,Многогрешный Юлиан Романович,Лукин Константин Леонидович,Шашков Кузьма Сергеевич,Стрелков Александр Эдуардович,Лаврентьев Филипп Сергеевич,Романенко Орландо Виталиевич,Милославский Назар Эдуардович,Дубченко Шерлок Иванович,Захарченко Цефас Дмитриевич,Саксаганский Зиновий Романович,Носков Эрик Валерьевич,Жуков Харитон Богданович,Романенко Чарльз Иванович,Мазайло Люций Дмитриевич,Трублаевский Роман Брониславович,Архипов Тарас Алексеевич,Фокин Йоханес Вадимович,Шуфрич Давид Платонович,Выговский Зураб Максимович,Яковлев Павел Григорьевич,Сыпченко Мирослав Андреевич,Кулибаба Степан Станиславович,Селезнёв Цицерон Андреевич,Красинец Евдоким Васильевич,Городецкий Шерлок Сергеевич,Иващенко Орест Артёмович,Палий Савва Валерьевич,Наумов Максим Артёмович,Зварыч Нестор Григорьевич,Носов Харитон Платонович,Посидайло Болеслав Ярославович,Савин Роберт Иванович,Симонов Цефас Александрович,Тимофеев Юлий Львович,Ткаченко Максим Григорьевич,Киселёв Марат Александрович,Несвитайло Зенон Сергеевич,Анисимов Чеслав Богданович,Легойда Харитон Леонидович,Александров Матвей Алексеевич,Колесник Ярослав Платонович,Веселов Ростислав Станиславович,Бердник Рафаил Данилович,Ситников Тимофей Богданович,Коновалов Устин Максимович,Антонов Давид Виталиевич,Пархоменко Болеслав Алексеевич,Шарапов Семён Михайлович,Гелетей Устин Петрович,Токар Орест Дмитриевич,Громов Корнелий Владимирович,Гайчук Нестор Фёдорович,Цушко Чарльз Артёмович,Медведев Вячеслав Виталиевич,Меркушев Люций Фёдорович,Голубев Аким Анатолиевич,</value>
+  </data>
+</root>
